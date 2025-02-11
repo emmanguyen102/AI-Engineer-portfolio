@@ -1,16 +1,15 @@
-# Machine-Learning-portfolio
+# AI-Engineering-portfolio
 
 ## Overview
 
-This repo is created with the aim of gaining indepth knowledge of Machine Learning Engineering.
+This repo is created with the aim of gaining indepth knowledge of AI Engineering.
 I also post on my [Medium blog](https://hangmortimer.medium.com/) (with already > 10k views and > 1k followers) during this journey. 
 
 
 ## Description
 
-The repo contains 7 main sections in such order:
-- Regression: Random Forest Regression problem
-- Classification:
+The repo contains 7 AI Engineering projects:
+- Fine-tuning LLMs with Hugging Face
 - 
 
 ## Getting Started
@@ -26,8 +25,7 @@ The repo contains 7 main sections in such order:
 * Google Colab -> Model training, tuning parameters, model validation and visualization
 
 ## Courses:
-- Machine Learning projects:  [Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) on Udemy.
-- Machine Learning basics and coding with Python: [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]](https://www.udemy.com/course/machinelearning/?couponCode=KEEPLEARNING) on Udemy
+- [Artificial Intelligence A-Z 2025: Build 7 AI + LLM & ChatGPT](https://www.udemy.com/course/machinelearning/?couponCode=KEEPLEARNING) on Udemy.
 
 ## Authors
 
