@@ -9,7 +9,7 @@ I also post on my [Medium blog](https://hangmortimer.medium.com/) (with already 
 ## Description
 
 The repo contains 7 AI Engineering projects:
-- Fine-tuning LLMs with Hugging Face
+- Fine-tuning LLMs with Hugging Face: Supervised Fine-Tuning (SFT) combined with Parameter-Efficient Fine-Tuning (PEFT) via LoRA (Low-Rank Adaptation).
 - 
 
 ## Getting Started
