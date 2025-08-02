@@ -23,9 +23,11 @@ The repo contains 7 AI Engineering projects:
 
 * VS code 2024 -> Coding tool with tons of plugins
 * Google Colab -> Model training, tuning parameters, model validation and visualization
+* Python
 
 ## Courses:
 - [Artificial Intelligence A-Z 2025: Build 7 AI + LLM & ChatGPT](https://www.udemy.com/course/machinelearning/?couponCode=KEEPLEARNING) on Udemy.
+- [Build Autonomous AI Agents From Scratch With Python](https://www.udemy.com/course/build-autonomous-ai-agents-from-scratch-with-python/?couponCode=25BBPMXINACTIVE), by Hasan Aboul Hasan on Udemy.
 
 ## Authors
 
