@@ -10,7 +10,7 @@ I also post on my [Medium blog](https://hangmortimer.medium.com/) (with already 
 
 The repo contains 7 AI Engineering projects:
 - Fine-tuning LLMs with Hugging Face: Supervised Fine-Tuning (SFT) combined with Parameter-Efficient Fine-Tuning (PEFT) via LoRA (Low-Rank Adaptation).
-- SEO Auditor AI Agent: A simple autonomous AI Agent system.
+- SEO Auditor AI Agent: A simple autonomous AI Agent system buidling from scatch with Python.
 
 ## Getting Started
 
