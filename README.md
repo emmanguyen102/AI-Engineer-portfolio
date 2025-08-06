@@ -3,7 +3,7 @@
 ## Overview
 
 This repo is created with the aim of gaining indepth knowledge of AI Engineering.
-I also post on my [Medium blog](https://hangmortimer.medium.com/) (with already > 10k views and > 1k followers) during this journey. 
+I also post on my [Medium blog](https://hangmortimer.medium.com/) (with already > 1k views per month and > 1k followers) during this journey. 
 
 
 ## Description
@@ -11,6 +11,7 @@ I also post on my [Medium blog](https://hangmortimer.medium.com/) (with already 
 The repo contains 7 AI Engineering projects:
 - Fine-tuning LLMs with Hugging Face: Supervised Fine-Tuning (SFT) combined with Parameter-Efficient Fine-Tuning (PEFT) via LoRA (Low-Rank Adaptation).
 - SEO Auditor AI Agent: A simple autonomous AI Agent system buidling from scatch with Python.
+- Build a troubleshooting agent: Evaluate AI Agent performance.
 
 ## Getting Started
 
@@ -28,6 +29,7 @@ The repo contains 7 AI Engineering projects:
 ## Courses:
 - [Artificial Intelligence A-Z 2025: Build 7 AI + LLM & ChatGPT](https://www.udemy.com/course/machinelearning/?couponCode=KEEPLEARNING) on Udemy.
 - [Build Autonomous AI Agents From Scratch With Python](https://www.udemy.com/course/build-autonomous-ai-agents-from-scratch-with-python/?couponCode=25BBPMXINACTIVE), by Hasan Aboul Hasan on Udemy.
+- [Building Intelligent Troubleshooting Agents](https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/home/module/1), by Microsoft on Udemy
 
 ## Authors
 
